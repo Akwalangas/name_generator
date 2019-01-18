@@ -1,7 +1,6 @@
 # name_generator
 
-Project "Startup name generator"
-This project goal is to generate random Startup name.
+Project "Startup name generator". This project has a goal to generate a random Startup name.
 Project has two lists - business terms and random words.
 Project consist of four parts (Name, Age, Merge, color):
 
