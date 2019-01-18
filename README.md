@@ -12,3 +12,8 @@ Then every word in some_list (random words list) are iterated and if word starts
 3. In the third part two words are combined, you get your random startup name and you are asked if you are happy with your name. If your are not happy, you get one more Startup name, this time name is chosen randomly without taking into account your name or age. Then you are asked again if you are happy with the name.
 
 4. If you are still not happy with random name you got, you are asked to say what is your favorite color. Then every color gets a random value (startup name) and the Startup name is printed according to your chosen color.
+
+REQUIREMENTS
+1. First you have to upload and open two lists - business terms and random words list
+2. Then you have to run program
+3. Your name will be asked as well as your age
