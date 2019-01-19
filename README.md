@@ -1,6 +1,6 @@
 # name_generator
 
-Project "Startup name generator". This project has a goal to generate a random Startup name.
+Project by Lukas Jasaitis for Vilnius School of AI, class D 2018: "Startup name generator". This project has a goal to generate a random Startup name.
 Project has two lists - business terms and random words.
 Project consist of four parts (Name, Age, Merge, color):
 
@@ -15,5 +15,5 @@ Then every word in some_list (random words list) are iterated and if word starts
 
 REQUIREMENTS
 1. First you have to upload and open two lists - business terms and random words list
-2. Then you have to run program
+2. Then you have to run program on google colab
 3. Your name will be asked as well as your age
